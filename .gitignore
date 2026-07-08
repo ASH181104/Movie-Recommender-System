@@ -1,0 +1,9 @@
+# Ignore large model files
+MVE/movie_recomendation_system/similarity.pkl
+
+# Ignore python caches and virtualenvs
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
